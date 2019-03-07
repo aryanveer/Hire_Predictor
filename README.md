@@ -1,4 +1,4 @@
-# Hire_Predictor
+# Hire Predictor
 **Objective**
 
 Predict whether a candidate should be hired on the basis of his/her profile.
@@ -23,8 +23,10 @@ Algorithms used are:
 1. Decision Tree
 2. Random Forest
 3. SVC
-4. KNN
+4. K - Means
 5. Naive Bayes
+6. Logistic Regression
+
 
 **Run**
 
