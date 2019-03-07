@@ -26,4 +26,13 @@ Algorithms used are:
 4. KNN
 5. Naive Bayes
 
+**Run**
+
+Run the code in "Hire_Predictor_Project.ipynb" and this window will be the output.
+
+<img src="https://github.com/aryanveer/Hire_Predictor/blob/master/Output%20Window.JPG?raw=true"
+     style="float: left; margin-right: 10px;" />
+     
+Enter the values in the fields and predict usnig different ML Algorithms.
+
 
