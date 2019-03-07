@@ -11,8 +11,9 @@ Internships
 First Round Percentage
 Communication Skills rating
 
-<img src="dataframe head.jpg"
-     alt="Dataframe Head"
+**This is the Dafarame Head**
+
+<img src="https://github.com/aryanveer/Hire_Predictor/blob/master/dataframe%20head.JPG?raw=true"
      style="float: left; margin-right: 10px;" />
 
 **Aim**
