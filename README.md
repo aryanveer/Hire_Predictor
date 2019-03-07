@@ -11,8 +11,8 @@ Internships
 First Round Percentage
 Communication Skills rating
 
-<img src="markdownmonstericon.png"
-     alt="Markdown Monster icon"
+<img src="dataframe head.jpg"
+     alt="Dataframe Head"
      style="float: left; margin-right: 10px;" />
 
 **Aim**
